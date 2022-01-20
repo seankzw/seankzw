@@ -1,4 +1,4 @@
-- 👋 Holaa, I’m Sean !
+# 👋 Holaa, I’m Sean !
 - 🌱 I’m currently learning Ruby on Rails
 - 🔭 I’m currently working on Rota App.
 - 📫 How to reach me seankzw@gmail.com
