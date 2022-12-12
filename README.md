@@ -1,9 +1,7 @@
 # 👋 Holaa, I’m Sean !
-- 🌱 I’m currently learning Ruby on Rails
-- 🔭 I’m currently working on Rota App.
 - 📫 How to reach me seankzw@gmail.com
 - 💬 Ask me about anything ! I'm always in for a chitchat !
-<!-- - 👉🏼 [seankzw.site](https://seankzw.site) -->
+<!-- - 👉🏼 [seankzw.me](https://seankzw.me) -->
 [![website](https://img.shields.io/badge/Portfolio-seankzw.site-2648ff?style=for-the-badge&logo=appveyor&color=E3405B&labelColor=1c1c30&logoColor=white)](https://seankzw.site/)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seankzw&layout=compact&theme=dracula"/>
