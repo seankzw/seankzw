@@ -1,5 +1,5 @@
 # 👋 Holaa, I’m Sean !
-- 📫 How to reach me seanzwdev@gmail.com
+- 📫 How to reach me hello@seankzw.com
 - 💬 Ask me about anything ! I'm always in for a chitchat !
 
 [![website](https://img.shields.io/badge/Portfolio-seankzw.com-2648ff?style=for-the-badge&logo=appveyor&color=E3405B&labelColor=1c1c30&logoColor=white)](https://www.seankzw.com)
