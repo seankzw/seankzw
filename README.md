@@ -4,8 +4,7 @@
 
 [![website](https://img.shields.io/badge/Portfolio-seankzw.com-2648ff?style=for-the-badge&logo=appveyor&color=E3405B&labelColor=1c1c30&logoColor=white)](https://www.seankzw.com)
 
-<!-- - 👉🏼 [seankzw.me](https://seankzw.me) -->
-![Activitiy](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seankzw&theme=tokyonight)
+<!-- - 👉🏼 [seankzw.com](https://seankzw.com) -->
 
 
 
